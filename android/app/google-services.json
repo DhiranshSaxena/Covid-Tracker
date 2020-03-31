@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92587201695",
+    "firebase_url": "https://covid-19-outbreak.firebaseio.com",
+    "project_id": "covid-19-outbreak",
+    "storage_bucket": "covid-19-outbreak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92587201695:android:aaa4d8a8843447e72abeaa",
+        "android_client_info": {
+          "package_name": "com.schaffen.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92587201695-994e83n0nlmtgeukahccdqvplp9pepa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSmMBfYsNt-L-HKhTB6GBoRrvaxTdoFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92587201695-994e83n0nlmtgeukahccdqvplp9pepa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
